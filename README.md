@@ -1,0 +1,2 @@
+# Attention-from-scratch
+DeepLearningのAttentionモデルを1から制作しようという試みのリポジトリです。
