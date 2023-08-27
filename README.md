@@ -11,6 +11,7 @@ Attention編はお待ちください！<br>
 2023/8/24 Transformerモジュールの制作が完了しました！まだ明らかに間違いが多い&内容不足なので手直ししていきます。
 <br>
 2023/8/27 全ての間違いを訂正しました！まだ説明が不十分なので訂正していきます！<br>
+2023/8/28 説明を追記、完成。
 
 ### 内容
 ##### pytorch_command.ipynb
@@ -21,6 +22,11 @@ Attention編はお待ちください！<br>
 - Appendix: かなり詳しく書きました。モデル定義で書ききれなかったBatchNormalization, Dropout, RNN, LSTMの自作実装や、日本語記事では多分ほぼ初(観測範囲内)の自作Optimizerの定義の仕方とかも書きました。
 - Appendix2: 実はPytorchは普通の最適化にも使えるよって話をしました。
 - GithubのPreviewだとipynbのmarkdown部分がうまく表示されない場合がありますが、Cloneして手元のVSCodeで開けば綺麗に映るはずです。<br>
+
+##### attention_from_scratch.ipynb
+- Attention誕生の経緯: 何故Attentionなのかを簡単に述べました
+- Self-Attention, MultiheadAttention, Transformerの簡単な理論と実装上の注意、実装例:　実装の際に気をつけることに絞って簡単に数式を用いて解説を行いました。
+- Attention機構を用いた日英翻訳タスクの例: Hugging Faceからデータを取ってきて実際に翻訳タスクを行いました。
 
 制作環境<br>
 pytorch_command.ipynb<br>
