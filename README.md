@@ -20,7 +20,7 @@
 - Self-Attention, MultiheadAttention, Transformerの簡単な理論と実装上の注意、実装例:　実装の際に気をつけることに絞って簡単に数式を用いて解説を行いました。
 - Attention機構を用いた日英翻訳タスクの例: Hugging Faceからデータを取ってきて実際に翻訳タスクを行いました。
 
-##### BERT.ipynb(BERTの実装を行うipynbを制作するかも。。。？)
+##### BERT.ipynb(BERTの実装を行うipynbを制作するかも。。。？)<-GPT作りたくなった
 制作環境<br>
 pytorch_command.ipynb<br>
 MacBook Air<br>
